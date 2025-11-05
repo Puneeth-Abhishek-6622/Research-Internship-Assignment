@@ -47,9 +47,9 @@ MFA DATA/
 You'll need to download the pre-trained models for English.
 
 * **🔹 English Acoustic Model (v3.1.0)**
-    * Download from MFA’s official release page: 👉 `english_mfa.zip`
+    * Download: [**english_mfa.zip**](https://github.com/MontrealCorpusTools/mfa-models/releases/download/acoustic-english_mfa-v3.1.0/english_mfa.zip)
 * **🔹 English (US) Pronunciation Dictionary (v3.1.0)**
-    * Download from: 👉 `english_us_mfa.dict`
+    * Download: [**english_us_mfa.dict**](https://github.com/MontrealCorpusTools/mfa-models/releases/download/dictionary-english_us_mfa-v3.1.0/english_us_mfa.dict)
 
 Place these files in your main `MFA DATA` directory as shown in the structure above.
 
