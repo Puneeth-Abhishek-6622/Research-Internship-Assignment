@@ -77,10 +77,10 @@ docker run -it --rm \
   mmcauliffe/montreal-forced-aligner:latest \
   mfa align /data/corpus /data/english_us_mfa.dict /data/english_mfa.zip /data/output
 ```
-**Note: ** _The command above assumes your MFA DATA folder is on your Desktop. Change the path (%USERPROFILE%\Desktop\MFA DATA or ~/Desktop/MFA DATA) if it's located elsewhere.
-_
+Note:  The command above assumes your MFA DATA folder is on your Desktop. Change the path (%USERPROFILE%\Desktop\MFA DATA or ~/Desktop/MFA DATA) if it's located elsewhere.
+
 🗂️ Output : 
--> This is how the interface looks when you run the above command .
+This is how the interface looks when you run the above command.
 
 <p align="center">
   <img src="images/Screenshot%202025-11-05%20095359.png" alt="Project Screenshot" >
