@@ -80,7 +80,10 @@ docker run -it --rm \
 Note: The command above assumes your MFA DATA folder is on your Desktop. Change the path (%USERPROFILE%\Desktop\MFA DATA or ~/Desktop/MFA DATA) if it's located elsewhere.
 
 🗂️ Output
-After successful alignment, you’ll find .TextGrid files for each audio–text pair inside the output/ folder:
+This is how the interface looks when you run the above command .
+![Project Screenshot](images/Screenshot%202025-11-05%20095359.png)
+
+After successful alignment, you’ll find.TextGrid files for each audio–text pair inside the output/ folder:
 
 ```bash
 output/
