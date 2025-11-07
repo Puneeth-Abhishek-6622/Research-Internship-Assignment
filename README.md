@@ -97,7 +97,7 @@ output/
 ```
 Each .TextGrid file can be opened in Praat to visualize the word and phoneme boundaries.
 
-📊 ## Sample Praat Visualizations
+## 📊Sample Praat Visualizations
 
 Here are a couple of examples of the alignment output, showing the word and phoneme boundaries as visualized in Praat.
 
