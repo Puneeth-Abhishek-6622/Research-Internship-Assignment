@@ -96,3 +96,23 @@ output/
 └── ...
 ```
 Each .TextGrid file can be opened in Praat to visualize the word and phoneme boundaries.
+
+📊 ## Sample Praat Visualizations
+
+Here are a couple of examples of the alignment output, showing the word and phoneme boundaries as visualized in Praat.
+
+**Note:** To display these images, you'll need to upload your screenshots to the `images` folder in your GitHub repository. I have used the filenames you uploaded (`Screenshot 2025-11-06 235108.jpg` and `Screenshot 2025-11-06 235224.jpg`).
+
+### Sample 1: "i said bad not bed"
+
+<p align="center">
+<img src="images/1.jpg" alt="Praat visualization for 'i said bad not bed'" width="700">
+</p>
+
+### Sample 2: "i said new not no"
+
+<p align="center">
+<img src="images/2.jpg" alt="Praat visualization for 'i said new not no'" width="700">
+</p>
+
+As you can see, the model accurately segments both the words and their constituent phonemes, aligning them precisely with the audio waveform and spectrogram.
